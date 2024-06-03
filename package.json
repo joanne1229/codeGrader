@@ -1,0 +1,19 @@
+{
+  "name": "codegrader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanne1229/codeGrader.git"
+  },
+  "author": "Joanne Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanne1229/codeGrader/issues"
+  },
+  "homepage": "https://github.com/joanne1229/codeGrader#readme"
+}
